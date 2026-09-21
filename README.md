@@ -30,4 +30,4 @@ This project was developed during my summer full-time job at **DotJcoM LTD**.
 
 The source code, and all internal implementation details are proprietary and confidential to the company **DotJcoM LTD** and therefore cannot be shared publicly.
 
-This repository is intended solely to showcase the project's overview, the technologies used and my personal contributions.
+This repository is intended solely to showcase the project's overview, the technologies used and my personal contributions to the project.
